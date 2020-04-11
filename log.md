@@ -1,23 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 10, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Signed up for DataCamp Python Course. Starting from the basics
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: April 11, 2020
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Dug out my old Udemy and Stackskills courses on Python. I know I had started this before but never got around to pulling through with learning everything. Started with Udemy. Went through Expressions, Functions, Reading and Writing Files.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Thoughts**: I paid for these courses and never used them. Good thing that they're still available. After the #100daysofcode, the goal is not only to know Python, but to apply it to ethical hacking and then learn those skills.  
 
 ### Day 1: June 27, Monday
 
