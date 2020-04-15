@@ -10,6 +10,18 @@
 
 **Thoughts**: I paid for these courses and never used them. Good thing that they're still available. After the #100daysofcode, the goal is not only to know Python, but to apply it to ethical hacking and then learn those skills.  
 
+### Day 3: April 13, Monday
+
+**Today's Progress**: Was not able to do any learning but learnt a lesson about being scammed. For my job, I'm should be able to identify this and avoid it, but I fell victim. Never again and I believe coding will help me identify these factors more and not only avoid them, but to stop them.
+
+**Thoughts** Hack the scammers.
+
+### Day 4: April 15, Wednesday
+
+**Today's Progress**: Loops and Lists are out of the way
+
+**Thoughts** A great refresher. We handled loops a lot during C++ days. It's great to see that all are almost the same. 
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
